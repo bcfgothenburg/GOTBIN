@@ -1,5 +1,5 @@
 # GOTBIN
-Events organized by the Gothenburg Bioinformatics Network, Sweden
+Events organized by the [Gothenburg Bioinformatics Network, Sweden](https://www.gu.se/en/core-facilities/core-facilities-research-infrastructures/bioinformatics-and-data-centre-bdc/gotbin)
 
 <details>
   <summary>2026</summary>
